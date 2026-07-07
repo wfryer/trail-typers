@@ -1,10 +1,14 @@
 # Trail Typers
 
+**[Play it live](https://wfryer.github.io/trail-typers/)** (once GitHub Pages is turned on for this repo, see below)
+
 An Oregon Trail themed typing race in a single HTML file. Players race covered wagons 2,040 miles from Independence, Missouri to Oregon City by typing sentences quickly and accurately. A remix of [typing-bee](https://github.com/wfryer/typing-bee), rebuilt so it needs no Python server, no installation, and no admin rights.
 
 ## How to run it
 
-Download `trail-typers.html` and double-click it. That is the whole setup. It works on any PC, Mac, or Chromebook with a modern browser (Chrome, Edge, Firefox, or Safari) and a physical keyboard.
+Download `index.html` and double-click it. That is the whole setup. It works on any PC, Mac, or Chromebook with a modern browser (Chrome, Edge, Firefox, or Safari) and a physical keyboard.
+
+You can also just open the live link above, no download needed.
 
 ## Game modes
 
