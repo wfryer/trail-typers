@@ -4,7 +4,7 @@ An Oregon Trail themed typing race in a single HTML file. Players race covered w
 
 ## How to run it
 
-Download `index.html` and double-click it. That is the whole setup. It works on any PC, Mac, or Chromebook with a modern browser (Chrome, Edge, Firefox, or Safari) and a physical keyboard.
+Download `trail-typers.html` and double-click it. That is the whole setup. It works on any PC, Mac, or Chromebook with a modern browser (Chrome, Edge, Firefox, or Safari) and a physical keyboard.
 
 ## Game modes
 
@@ -46,3 +46,8 @@ Multiplayer uses WebRTC through [PeerJS](https://peerjs.com) and its free public
 ## Credits
 
 Built as a remix of [typing-bee](https://github.com/wfryer/typing-bee) by Wes Fryer. Trail landmarks and distances are based on the historic Oregon Trail route. The green phosphor look is a tribute to the classroom computer games of the 1980s.
+
+---
+
+Created by [Wes Fryer](https://wesfryer.com). More AI experiments and vibe coding projects are shared at [ai.wesfryer.com](https://ai.wesfryer.com).
+
